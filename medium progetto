@@ -1,0 +1,404 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;250;350;450&amp;family=Spectral:wght@250&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./reset.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>Medium</title>
+
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <div class="container">
+                <!-- Medium Logo -->
+                <div class="flex align-center space-between">
+                    <svg viewBox="0 0 3940 610" height="25">
+                    </svg>
+                    <ul class="menu">
+                        <li><span>Our Story</span></li>
+                        <li><span>Membership</span></li>
+                        <li><span>Write</span></li>
+                        <li><span>Sign In</span></li>
+                        <li><button>Get Started</button></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="hero" style="margin-top: 139.8px;">
+            <div class="container flex">
+                <div class="content">
+                    <h1>Stay curious.</h1>
+                    <h3>Discover stories, thinking, and expertise from writers on any topic.</h3>
+                    <button>Start reading</button>
+                </div>
+                <div class="artwork">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 585 462" width="585" height="462" preserveAspectRatio="xMidYMid meet" style="width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;">
+                        <defs>
+                            <clipPath id="__lottie_element_3372">
+                                <rect width="585" height="462" x="0" y="0"></rect>
+                            </clipPath>
+                        </defs>
+                        <g clip-path="url(#__lottie_element_3372)">
+                            <g fill="rgb(0,0,0)" font-size="22" font-family="Shne" font-style="normal" font-weight="normal" aria-label=" M M M M M M M M M M M M M M
+            M M M M M M M M M M M M M M M M M M M M M
+           M M M M M M M M M M M M M M M M M M M M M M M M M
+            M M M M M M M M M M M M
+            M M M M M M M M M M M M M M M M M M M
+         </header>
+    <main>
+        <section class="trending">
+            <div class="container">
+                <div class="trending-title-section flex align-center">
+                    <img src="./assets/imgs/trending.svg" alt="trending icon">
+                    <h2 class="trending-title">
+                        Trending on medium
+                    </h2>
+                </div>
+                <div class="grid">
+                    <div class="col">
+                        <div class="flex align-baseline">
+                            <div class="num">01</div>
+                            <div class="content">
+                                <div class="flex flex-vertical">
+                                    <div class="avatar-title flex align-center">
+                                        <img src="https://miro.medium.com/fit/c/40/40/1*0oIJdWxqjL9Y6P0B0J6Syw.jpeg" alt="Tom Cooper" width="20" height="20">
+                                        <h4>Tom Cooper</h4>
+                                    </div>
+                                    <h2>Ukraine War, 23 October 2022</h2>
+                                    <div class="bottom-info"><span>Oct 23</span><span class="dot">·</span><span>5 min
+                                            read</span>
+                                    </div>
+                    <div class="col">
+                        <div class="flex align-baseline">
+                            <div class="num">02</div>
+                            <div class="content">
+                                <div class="flex flex-vertical">
+                                    <div class="avatar-title flex align-center">
+                                        <img src="https://miro.medium.com/fit/c/40/40/1*ZpqTjur1EEzN4KzM4e-Bnw.png" alt="Arthur Hayes" width="20" height="20">
+                                        <h4>Arthur Hayes <span class="in">in</span> Entrepreneur's Handbook</h4>
+                                    </div>
+                                    <h2>Comeback</h2>
+                                    <div class="bottom-info"><span>Oct 26</span><span class="dot">·</span><span>24 min
+                                            read</span>
+                                    </div>
+                    <div class="col">
+                        <div class="flex align-baseline">
+                            <div class="num">03</div>
+                            <div class="content">
+                                <div class="flex flex-vertical">
+                                    <div class="avatar-title flex align-center">
+                                        <img src="https://miro.medium.com/fit/c/40/40/1*07lesGIGjBy3AqvnMCFx8Q.jpeg" alt="Tom Cooper" width="20" height="20">
+                                        <h4>Tom Cooper</h4>
+                                    </div>
+                                    <h2>How I Learned to Love My Breasts Even Though One Is A Horcrux For Voldemort</h2>
+                                    <div class="bottom-info"><span>Oct 26</span><span class="dot">·</span><span>2 min
+                                            read</span>
+                                    </div>
+                    <div class="col">
+                        <div class="flex align-baseline">
+                            <div class="num">04</div>
+                            <div class="content">
+                                <div class="flex flex-vertical">
+                                    <div class="avatar-title flex align-center">
+                                        <img src="https://miro.medium.com/fit/c/40/40/1*dG_T_tBLzdhZU-45_5r_NQ.png" alt="Frank Mastropolo" width="20" height="20">
+                                        <h4>Frank Mastropolo <span class="in">in</span> The Riffk</h4>
+                                    </div>
+                                    <h2>The Night Paul McCartney Donned a Disguise at Fillmore East</h2>
+                                    <div class="bottom-info"><span>Oct 22</span><span class="dot">·</span><span>3 min
+                                            read</span>
+                                    </div>
+                    <div class="col">
+                        <div class="flex align-baseline">
+                            <div class="num">05</div>
+                            <div class="content">
+                                <div class="flex flex-vertical">
+                                    <div class="avatar-title flex align-center">
+                                        <img src="https://miro.medium.com/fit/c/40/40/1*CJe3891yB1A1mzMdqemkdg.jpeg" alt="Frank Andrade" width="20" height="20">
+                                        <h4>Frank Andrade <span class="in">in</span> Towards Data Science</h4>
+                                    </div>
+                                    <h2>5 Python Projects to Automate Your Life: From Beginner to Advanced</h2>
+                                    <div class="bottom-info"><span>Oct 13</span><span class="dot">·</span><span>6 min. read</span>
+                                    </div>
+                    <div class="col"></div>
+                        <div class="flex align-baseline">
+                            <div class="num">06</div>
+                            <div class="content">
+                                <div class="flex flex-vertical">
+                                    <div class="avatar-title flex align-center">
+                                        <img src="https://miro.medium.com/fit/c/40/40/1*yUNfohs9jA6GCDmyCYJTvA@2x.png" alt="Wesley Smits" width="20" height="20">
+                                        <h4>Wesley Smits <span class="in">in</span> JavaScript in Plain English</h4>
+                                    </div>
+                                    <h2>How To Make Visual Studio Code Look Amazing</h2>
+                                    <div class="bottom-info"><span>Oct 20</span><span class="dot">·</span><span>7 min
+                                            read</span> </div>
+                                    </div>
+        </section>
+        <section class="wall">
+            <div class="container">
+                <div class="grid">
+                    <div class="col-main">
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/1*zgWjiNC_AuPugB9YJr_f-Q.jpeg" alt="Robert Roy Britt" width="20" height="20">
+                                    <h4>Robert Roy Britt</h4>
+                                </div>
+
+                                <h3>How Old is Old?</h3>
+                                <p>What we consider “old” changes dramatically with age, and our perspectives can be
+                                    predictive of how well we age</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Oct 27</span>
+                                        <span class="dot">·</span>
+                                        <span>5 min read</span>
+                                        <span class="dot">·</span>
+                                        <span class="badge">Aging</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                            </div>
+                            <img src="https://miro.medium.com/fit/c/400/268/1*a5h7AJISKYMspgWVmU5pYA.jpeg" alt="How Old is Old?">
+                        </div>
+
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/1*ywkuXhLZM0GzVvKYKqUi2Q.jpeg" alt="Taru Anniina Liikanen" width="20" height="20">
+                                    <h4>Taru Anniina Liikanen</h4>
+                                </div>
+
+                                <h3>Is Taylor Swift Allowed to Speak About Fat?</h3>
+                                <p>Can you speak about your trauma if you don't look traumatized?</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Oct 24</span>
+                                        <span>6 min read</span>
+                                        <span class="badge">Health</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                            </div>
+                            <img src="https://miro.medium.com/fit/c/400/268/1*7phFx9kfHsTcpYKFR5WRRQ.jpeg" alt="Is Taylor Swift Allowed to Speak About Fat?">
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/1*6dwaxm2q7mQGLyRAMb455w.jpeg" alt="David Rodenas, Ph. D." width="20" height="20">
+                                    <h2>David Rodenas, Ph. D.</h2>
+                                </div>
+
+                                <h2>Don’t Screw Up, You Will Be Found Guilty</h2>
+                                <p>Software Engineer, yours is the right to produce high-quality work at all times, also
+                                    the liability.</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Oct 15</span>
+                                        <span class="dot">·</span>
+                                        <span>5 min read</span>
+                                        <span class="dot">·</span>
+                                        <span class="badge">Software Engineering</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                           
+                            <img src="https://miro.medium.com/fit/c/400/268/1*D31qjpyOqzQ-pXDKUFUeCQ.png" alt="Don’t Screw Up, You Will Be Found Guilty">
+                      
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/1*QxJBzpwHk44170qJ4bu7Ng.png" alt="Microsoft Design" width="20" height="20">
+                                    <h2>Microsoft Design</h2>
+                                </div>
+
+                                <h2>Leave No Trace</h2>
+                                <p>How product designers can break from the status quo and help our planet</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Oct 25</span>
+                                        <span class="dot">·</span>
+                                        <span>11 min read</span>
+                                        <span class="dot">·</span>
+                                        <span class="badge">Sustainability</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                            </div>
+                            <img src="https://miro.medium.com/fit/c/400/268/1*cfA_8cPnms1URQQAeZqSyg.png" alt="Leave No Trace">
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/2*88Qdf_PKsdTYMipqHcYWtA.jpeg" alt="Scott H. Young" width="20" height="20">
+                                    <h2>Scott H. Young</h2>
+                                </div>
+
+                                <h2>Variability, Not Repetition, is the Key to Mastery</h2>
+                                <p>Bruce Lee is reported to have said, “I fear not the man who has practiced 10,000
+                                    kicks once, but the man who has practiced one kick 10,000...</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Oct 26</span>
+                                        <span class="dot">·</span>
+                                        <span>7 min read</span>
+                                        <span class="dot">·</span>
+                                        <span class="badge">Health</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                            </div>
+                            <img src="https://miro.medium.com/fit/c/400/268/0*GtSZ2tztpQ1-CNeO" alt="Variability, Not Repetition, is the Key to Mastery">
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/1*pfjoZOu08t9b-HHXv68ETg.png" alt="Paul A. DeStefano" width="20" height="20" style="border-radius: 3px">
+                                    <h4>
+                                        Paul A. DeStefano<span class="in">in</span> Human Parts</h4>
+                                </div>
+
+                                <h2>What I Overheard as an Escape Room Actor</h2>
+                                <p>Lock a group of people in a room and you’ll witness some surprising confessions</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Jan 18, 2020</span>
+                                        <span class="dot">·</span>
+                                        <span>6 min read</span>
+                                        <span class="dot">·</span>
+                                        <span class="badge">Experiences</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                            </div>
+                            <img src="https://miro.medium.com/fit/c/400/268/1*BIFKgPIc9NYb_gd1XLhWtQ.jpeg   " alt="What I Overheard as an Escape Room Actor">
+                        </div>
+                        <div class="card">
+                            <div class="content">
+                                <div class="avatar-title flex align-center">
+                                    <img src="https://miro.medium.com/fit/c/40/40/2*6ZcvkdbokzFF70RYusBZAw.jpeg" alt="Kim Scott" width="20" height="20">
+                                    <h4>Kim Scott</h4>
+                                </div>
+
+                                <h3>6 Steps for Setting Measurable Goals to Avoid “Productivity Paranoia”</h3>
+                                <p>With more people working in remote and hybrid environments than ever before, company,
+                                    team and individual goals must be explicit and…</p>
+                                <div class="bottom-info">
+                                    <div class="flex align-center">
+                                        <span>Oct 24</span>
+                                        <span class="dot">·</span>
+                                        <span>6 min read</span>
+                                        <span class="dot">·</span>
+                                        <span class="badge">Health</span>
+                                        <img src="./assets/imgs/star.svg" alt="star icon">
+                                    </div>
+                                    <img src="./assets/imgs/bookmark.svg" alt="bookmark icon">
+                                </div>
+                            </div>
+                            <img src="https://miro.medium.com/fit/c/400/268/0*s1zuZGpUzDLlq_0z.jpg" alt="6 Steps for Setting Measurable Goals to Avoid “Productivity Paranoia”">
+                        
+                        <h2>Discover more of what matters to you</h2>
+
+                        <div class="categories">
+                            <div class="category">Programming</div>
+                            <div class="category">Data Science</div>
+                            <div class="category">Technology</div>
+                            <div class="category">Self Improvement</div>
+                            <div class="category">Writing</div>
+                            <div class="category">Relationships</div>
+                            <div class="category">Machine Learning</div>
+                            <div class="category">Productivity</div>
+                            <div class="category">Politics</div>
+                        </div>
+                        <footer>
+                            <ul>
+                                <li><a href="#">Help</a></li>
+                                <li><a href="#">Status</a></li>
+                                <li><a href="#">Writers</a></li>
+                                <li><a href="#">Blog</a></li>
+                                <li><a href="#">Careers</a></li>
+                                <li><a href="#">Privacy</a></li>
+                                <li><a href="#">Terms</a></li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Knowable</a></li>
+                            </ul>
+                        </footer>
+                    </aside>
+                </div>
+            </div>
+        </section>
+
+    <script>
+
+        // LETTERS ANIMATION
+        const getRandomLetter = function () {
+
+            const gs = document.querySelectorAll("g[stroke-linecap=butt]")
+            let random = Math.floor(Math.random() * gs.length)
+            let currentLetter = gs[random]
+
+            return currentLetter
+
+        }
+
+        const changeLetterOpacity = function () {
+            let letter = getRandomLetter()
+            let opacity = parseInt(letter.getAttribute("opacity"))
+
+            if (opacity === 0) {
+                letter.setAttribute("opacity", 1)
+            } else {
+                letter.setAttribute("opacity", 0)
+            }
+        }
+
+        const fadeInOutLetters = function () {
+            setInterval(function () {
+                changeLetterOpacity()
+            }, 40)
+        }
+
+        const calculateHeroMarginTop = function () {
+            const nav = document.querySelector("nav")
+            const hero = document.querySelector(".hero")
+
+            const navbarHeight = nav.getBoundingClientRect().height
+
+            hero.style.marginTop = navbarHeight + "px"
+        }
+
+        window.onload = function () {
+            fadeInOutLetters()
+            calculateHeroMarginTop()
+        }
+        // END OF LETTERS ANIMATION
+
+        // NAVBAR CHANGE EFFECT STARTS HERE
+        document.addEventListener("scroll", function (event) {
+            const nav = document.querySelector("nav")
+            const hero = document.querySelector(".hero")
+
+            const heroHeight = hero.offsetHeight
+
+
+            if (window.pageYOffset >= heroHeight - 80) { /* 80 is to make the change happen a little early on before the end of the hero section, no particular other reason why it's there (just like the original one) */
+                console.log("scrolled")
+                nav.classList.add("scrolled")
+            }
+            else 
+                nav.classList.remove("scrolled")
+                console.log("in place")
+    </script>
+</html>
